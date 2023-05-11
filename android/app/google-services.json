@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "47827416159",
+    "project_id": "eleraky-6bcab",
+    "storage_bucket": "eleraky-6bcab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:47827416159:android:f6c2cb54db05ab041197ea",
+        "android_client_info": {
+          "package_name": "com.example.eleraky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "47827416159-4hp4ielebii4jjvoql3i37s7qmcnf7vq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRdMVfwXKXPvy0cqQGVBTASm_cbmOUXY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "47827416159-4hp4ielebii4jjvoql3i37s7qmcnf7vq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
